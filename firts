@@ -1,0 +1,2 @@
+ 4000  for dir in */; do cp local.properties $dir; done
+
